@@ -1,9 +1,9 @@
-# Data_and_Codes
+# Data and Codes
 
 ### In this repository, we share data and codes for our studies.
 
 
-### - Gao_2021_Indebtedness:
+### Gao_2021_Indebtedness:
 
 Codes and behavioral data for
 
@@ -15,7 +15,7 @@ The fMRI data for this study are shared on OSF:
 
 
 
-### - Xiong_Neuroimage_2020_Gratitude_Uncertainty:
+### Xiong_Neuroimage_2020_Gratitude_Uncertainty:
 
 Codes and data for
 
